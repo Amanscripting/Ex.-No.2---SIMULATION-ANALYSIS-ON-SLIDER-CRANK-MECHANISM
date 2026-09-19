@@ -39,9 +39,11 @@
 
 ## Output
 ### MechAnalyzer Graph 
-![MechAnalyzer](MechAnalyzer.png)
+<img width="1920" height="1201" alt="image" src="https://github.com/user-attachments/assets/2d03fa30-71f8-4446-9301-7383d8dad782" />
+
 ### VAD, IC and SFA module
-![VAD, IC and SFA module](<VAD, IC and SFA module.png>)
+<img width="1921" height="1201" alt="image" src="https://github.com/user-attachments/assets/d31fc3cd-e25b-4e40-ae97-a5af128d4e62" />
+
 ### Name: **KABELAN G K**
 ### Register Number: **212224110027**
 
